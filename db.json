@@ -1,0 +1,4 @@
+{
+"Nemocnice":{"number":204 , "direction": "Kylesovice Bilovecka", "departure":"6min", "next_number":201 , "next_direction": "Kylesovice Bilovecka", "next_departure":"17:24"},
+"englisova":{"number":208 , "direction": "Katerinky", "departure":"17:25", "next_number":208 , "next_direction": "Katerinky", "next_departure":"17:45"}
+}
